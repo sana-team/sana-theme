@@ -1,5 +1,3 @@
-# sana-theme README
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/3raphat/sana-theme/master/icon.png" width="140" />

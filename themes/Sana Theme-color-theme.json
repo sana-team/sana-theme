@@ -94,6 +94,15 @@
 		},
 		{
 			"scope": [
+				"variable",
+				"variable.other"
+			],
+			"settings": {
+				"foreground": "#e2e8f0",
+			}
+		},
+		{
+			"scope": [
 				"support.function",
 				"keyword.operator.accessor",
 				"meta.group.braces.round.function.arguments",
@@ -219,7 +228,7 @@
 				"constant.keyword.clojure"
 			],
 			"settings": {
-				"foreground": "#34d399",
+				"foreground": "#2dd4bf",
 				"fontStyle": "italic"
 			}
 		},
