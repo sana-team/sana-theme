@@ -3,12 +3,18 @@
   "displayName": "Sana Theme",
   "description": "Sana Theme based on Min Dark",
   "version": "0.0.1",
+  "publisher": "3raphat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3raphat/sana-theme.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
