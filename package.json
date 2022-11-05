@@ -1,0 +1,21 @@
+{
+  "name": "sana-theme",
+  "displayName": "Sana Theme",
+  "description": "Sana Theme based on Min Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sana Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sana Theme-color-theme.json"
+      }
+    ]
+  }
+}
