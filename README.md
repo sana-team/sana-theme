@@ -1,16 +1,19 @@
 # sana-theme README
 
-## Working with Markdown
+<div align="center">
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="https://raw.githubusercontent.com/3raphat/sana-theme/master/icon.png" width="140" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Sana Theme
 
-## For more information
+Sana Theme based on Min Dark
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/3raphat.sana-theme)
 
-**Enjoy!**
+</div>
+
+## Installation
+
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=3raphat.sana-theme)
+2. Go to `File > Preferences > Color Theme`
+3. Select `Sana Theme`
