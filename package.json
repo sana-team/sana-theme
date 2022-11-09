@@ -2,7 +2,7 @@
   "name": "sana-theme",
   "displayName": "Sana Theme",
   "description": "Sana Theme based on Min Dark",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "3raphat",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "contributes": {
     "themes": [
       {

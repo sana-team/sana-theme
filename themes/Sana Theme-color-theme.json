@@ -62,17 +62,17 @@
     "debugIcon.continueForeground": "#FF7A84",
     "debugIcon.disconnectForeground": "#FF7A84",
     "debugIcon.pauseForeground": "#FF7A84",
-    "debugIcon.restartForeground": "#79b8ff",
-    "debugIcon.startForeground": "#79b8ff",
+    "debugIcon.restartForeground": "#dfbfff",
+    "debugIcon.startForeground": "#dfbfff",
     "debugIcon.stepBackForeground": "#FF7A84",
     "debugIcon.stepIntoForeground": "#FF7A84",
     "debugIcon.stepOutForeground": "#FF7A84",
     "debugIcon.stepOverForeground": "#FF7A84",
-    "debugIcon.stopForeground": "#79b8ff",
-    "debugIcon.breakpointCurrentStackframeForeground": "#79b8ff",
+    "debugIcon.stopForeground": "#dfbfff",
+    "debugIcon.breakpointCurrentStackframeForeground": "#dfbfff",
     "debugIcon.breakpointDisabledForeground": "#848484",
     "debugIcon.breakpointForeground": "#FF7A84",
-    "debugIcon.breakpointStackframeForeground": "#79b8ff",
+    "debugIcon.breakpointStackframeForeground": "#dfbfff",
     "debugIcon.breakpointUnverifiedForeground": "#848484",
     "symbolIcon.classForeground": "#FF9800",
     "symbolIcon.enumeratorForeground": "#FF9800",
@@ -80,10 +80,10 @@
     "symbolIcon.methodForeground": "#b392f0",
     "symbolIcon.constructorForeground": "#b392f0",
     "symbolIcon.functionForeground": "#b392f0",
-    "symbolIcon.fieldForeground": "#79b8ff",
-    "symbolIcon.interfaceForeground": "#79b8ff",
-    "symbolIcon.variableForeground": "#79b8ff",
-    "symbolIcon.enumeratorMemberForeground": "#79b8ff",
+    "symbolIcon.fieldForeground": "#dfbfff",
+    "symbolIcon.interfaceForeground": "#dfbfff",
+    "symbolIcon.variableForeground": "#dfbfff",
+    "symbolIcon.enumeratorMemberForeground": "#dfbfff",
     "diffEditor.insertedTextBackground": "#3a632a4b",
     "diffEditor.removedTextBackground": "#88063852"
   },
@@ -161,6 +161,7 @@
 				"string.quoted.docstring.multi"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#6b737c"
 			}
 		},
@@ -176,7 +177,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#79b8ff"
+				"foreground": "#dfbfff"
 			}
 		},
 		{
@@ -207,8 +208,7 @@
 				"pclassunctuation.definition.template-expression"
 			],
 			"settings": {
-				"foreground": "#fb7185",
-				"fontStyle": "italic"
+				"foreground": "#fb7185"
 			}
 		},
 		{
@@ -228,8 +228,7 @@
 				"constant.keyword.clojure"
 			],
 			"settings": {
-				"foreground": "#2dd4bf",
-				"fontStyle": "italic"
+				"foreground": "#b5dfca"
 			}
 		},
 		{
@@ -243,7 +242,7 @@
 				"keyword.other.template"
 			],
 			"settings": {
-				"foreground": "#ffab70"
+				"foreground": "#ffd97d"
 			}
 		},
 		{
@@ -285,7 +284,7 @@
 			"name": "[Custom] Markdown links",
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#ffab70"
+				"foreground": "#ffd97d"
 			}
 		},
 		{
@@ -301,7 +300,7 @@
 			"name": "[Custom] Markdown punctuation definition",
 			"scope": "punctuation.definition.metadata.markdown",
 			"settings": {
-				"foreground": "#ffab70"
+				"foreground": "#ffd97d"
 			}
 		},
 		{
@@ -311,7 +310,7 @@
 				"punctuation.definition.string.end.markdown"
 			],
 			"settings": {
-				"foreground": "#79b8ff"
+				"foreground": "#dfbfff"
 			}
 		}
 	],
