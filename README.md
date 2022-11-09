@@ -6,9 +6,9 @@
 
 Sana Theme based on Min Dark
 
-![preview](https://raw.githubusercontent.com/3raphat/sana-theme/master/assets/screenshot.png)
-
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/3raphat.sana-theme)
+
+![preview](https://raw.githubusercontent.com/3raphat/sana-theme/master/assets/screenshot.png)
 
 </div>
 
