@@ -2,8 +2,8 @@
   "name": "Sana Theme",
   "type": "dark",
   "colors": {
-    "editorIndentGuide.activeBackground": "#383838",
-    "editorIndentGuide.background": "#2A2A2A",
+    "editorIndentGuide.activeBackground1": "#383838",
+    "editorIndentGuide.background1": "#2A2A2A",
     "editorRuler.foreground": "#2A2A2A",
     "editorLineNumber.foreground": "#727272",
     "activityBar.background": "#1A1A1A",
@@ -172,6 +172,13 @@
       }
     },
     {
+      "scope": "variable.parameter",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#dfbfff"
+      }
+    },
+    {
       "scope": [
         "constant.numeric",
         "constant.other.placeholder",
@@ -261,7 +268,12 @@
       }
     },
     {
-      "scope": ["punctuation.definition.arguments", "punctuation.definition.dict", "punctuation.separator", "meta.function-call.arguments"],
+      "scope": [
+        "punctuation.definition.arguments",
+        "punctuation.definition.dict",
+        "punctuation.separator",
+        "meta.function-call.arguments"
+      ],
       "settings": {
         "foreground": "#bbbbbb"
       }
@@ -289,7 +301,10 @@
     },
     {
       "name": "[Custom] Markdown punctuation definition brackets",
-      "scope": ["punctuation.definition.string.begin.markdown", "punctuation.definition.string.end.markdown"],
+      "scope": [
+        "punctuation.definition.string.begin.markdown",
+        "punctuation.definition.string.end.markdown"
+      ],
       "settings": {
         "foreground": "#dfbfff"
       }
